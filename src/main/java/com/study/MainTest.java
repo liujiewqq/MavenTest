@@ -14,6 +14,7 @@ public class MainTest {
 		List<String> list=Lists.newArrayList();
 		list.add("123");
 		System.out.println(list);
+		System.out.println("1234");
 		
 	}
 }
