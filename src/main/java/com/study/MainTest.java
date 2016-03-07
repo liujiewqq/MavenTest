@@ -15,6 +15,8 @@ public class MainTest {
 		list.add("123");
 		System.out.println(list);
 		System.out.println("1234");
+		System.out.println("1234");
+
 		
 	}
 }
